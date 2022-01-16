@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"OPUSCard"},{"p":"enums","l":"OPUSCardType"},{"p":"<Unnamed>","l":"Ticketbooth"},{"p":"<Unnamed>","l":"Tickets"},{"p":"enums","l":"TicketType"}];updateSearchResults();
